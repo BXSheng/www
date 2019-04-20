@@ -1,0 +1,1 @@
+[JavaScript Standard 样式指南](https://github.com/standard/standardst)
